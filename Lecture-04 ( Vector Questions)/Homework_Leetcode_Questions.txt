@@ -2,7 +2,7 @@
 
 
 
-
+Uttar Pradesh State Board of High School and Intermediate Education
 
 
 
@@ -21,3 +21,57 @@ https://leetcode.com/problems/smallest-even-multiple/description/
 
 
 https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/
+
+
+
+
+Baba Rishi Dev Singh Mahavidyalaya
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vector   
+
+
+L1-> Introduction To Vector 
+
+L2-> Leetcode Questions :- Convert The Temperature , Homework   https://github.com/vishalyl02/BTECH-SECTION-A-4TH-SEM/blob/main/Lecture-04%20(%20Vector%20Questions)/Homework_Leetcode_Questions.txt
+
+L3-> Leetcode Questions:- Convert an Array Into a 2D Array With Conditions, Rearrange Array Elements by Sign
+
+L4-> Leetcode Questions :- Minimize Maximum Pair Sum in Array, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
