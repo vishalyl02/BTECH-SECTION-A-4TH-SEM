@@ -8,7 +8,6 @@ int main()
 
     // Task -1 -> To declare a pair with key and value -> 5,-9
     pair<int,int>p={5,-9};
-
     // Task -2-> Print the pair data
     cout<<"First pair data "<<p.first<<" "<<p.second<<endl;
 
